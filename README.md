@@ -1,2 +1,2 @@
 # Twister
-application web de type Twitter, en JavaScript, CSS et NodeJS.
+application web de type Twitter (X), en JavaScript, CSS et NodeJS.
