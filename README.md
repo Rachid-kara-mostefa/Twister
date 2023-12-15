@@ -61,12 +61,19 @@ Notre dossier contient la partie serveur et client presque terminées. Il manque
 
  ![accueil](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/f389263d-34a2-4415-a011-a02e77d1be15)
 
+ 	Qui contient des posts, qu'on peut liker, commenter ou partager.
  ![acc post](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/a7d27c4a-983d-4474-a251-d636f5a04214)
 
-	- Notre profile
+	- Notre profil, qu'on peut modifier
 
  ![profil](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0bd423ab-b6c0-481a-8cad-171a101dcc77)
 
- 	- Profil d'un user
+ 	- Profil d'un user, qu'on peut follow ou unfollow
 
   ![profil aans](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0319976d-9499-43d3-911f-f11e87e65d47)
+
+  	-Quelques tests avec postman pour vérifier la bonne liaison avec la base de données coté serveur.
+   
+![test postman 2](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0640dd6f-e37b-47c2-8cca-95d1b67d0919)
+![test postman 1](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0c930bc0-560d-43a8-804e-313cd0b4a9ca)
+
