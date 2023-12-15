@@ -48,6 +48,7 @@ Notre dossier contient la partie serveur et client presque terminées. Il manque
 - Dossier routes :	Il contient les routes essentielles pour les fonctions d'un post et d'un user.
 
 ***** Le côté client *****
+
 	- Une Page de connexion
  
 ![login](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/c10fb9e7-072d-474c-9778-22e3e73f4a47)
@@ -56,3 +57,16 @@ Notre dossier contient la partie serveur et client presque terminées. Il manque
   
 ![signUp](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/ee41ba43-c0d4-4fa1-9aa5-e0a664497321)
 
+	- Une page d'accueil
+
+ ![accueil](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/f389263d-34a2-4415-a011-a02e77d1be15)
+
+ ![acc post](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/a7d27c4a-983d-4474-a251-d636f5a04214)
+
+	- Notre profile
+
+ ![profil](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0bd423ab-b6c0-481a-8cad-171a101dcc77)
+
+ 	- Profil d'un user
+
+  ![profil aans](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0319976d-9499-43d3-911f-f11e87e65d47)
