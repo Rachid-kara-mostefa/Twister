@@ -48,6 +48,10 @@ Notre dossier contient la partie serveur et client presque terminées. Il manque
 - Dossier routes :	Il contient les routes essentielles pour les fonctions d'un post et d'un user.
 
 ***** Le côté client *****
-	Une Page de connexion
+	- Une Page de connexion
  
+	![login](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/c10fb9e7-072d-474c-9778-22e3e73f4a47)
+
+ 	- Une page d'inscription
+  	![signUp](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/ee41ba43-c0d4-4fa1-9aa5-e0a664497321)
 
