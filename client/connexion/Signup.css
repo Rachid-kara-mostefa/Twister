@@ -1,0 +1,64 @@
+/* Styles for the form container */
+@import url(//db.onlinewebfonts.com/c/60c9fc092e2293c480e92b37d8864a65?family=Generis+Simple);
+
+.container {
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+    margin-left: 700px;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #1DA1F2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Styles for the input labels */
+  label {
+    margin: 10px 0;
+    font-weight: bold;
+    color: gray
+  }
+  
+  /* Styles for the input fields */
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 5px;
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+  }
+  
+  /* Styles for the sign in button */
+  button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  /* Styles for the sign in button on hover */
+  button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Styles for the error message */
+  .error {
+    color: red;
+    margin: 10px 0;
+  }
+  
+  h1{
+    font-family: 'Generis Simple', sans-serif;
+    color:#1DA1F2
+  }
+
+  p{
+    font-family: 'Generis Simple', sans-serif;
+  }

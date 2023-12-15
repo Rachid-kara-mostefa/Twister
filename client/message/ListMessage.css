@@ -1,0 +1,24 @@
+.listMessage {
+  max-width: 600px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-height: '500px';
+  overflow-y: 'auto';
+}
+
+.listMessage .message-container {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.listMessage .message-container:last-child {
+  border-bottom: none;
+}
+

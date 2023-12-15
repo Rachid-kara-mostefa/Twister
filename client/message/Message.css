@@ -1,0 +1,79 @@
+.message-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid lightskyblue;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+}
+
+.message-container :hover{
+  background-color: #f3f3f3;
+}
+
+
+.message-container .author {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 5px;
+}
+
+.message-container .content {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.message-container .date {
+  font-size: 12px;
+  color: #999;
+  margin-top: 5px;
+}
+
+.button-container {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px; 
+}
+
+.reponse_button, .profile_button, .edit_button, .delete_button {
+  padding: 10px;
+  margin: 10px;
+  background-color: transparent;
+  color: lightskyblue;
+  border: 2px solid lightskyblue;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.like_button {
+  padding: 10px;
+  margin: 10px;
+  background-color: transparent;
+  color: lightskyblue;
+  border: 2px solid lightskyblue;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.like_button.active {
+  background-color: red;
+  color: white;
+  border-color: red;
+}
+
+.like_button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: red;
+  color: red;
+}
+
+.reponse_button:hover, .profile_button:hover, .edit_button:hover, .delete_button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: lightskyblue;
+  color: lightskyblue;
+}
+

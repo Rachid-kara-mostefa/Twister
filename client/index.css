@@ -1,0 +1,41 @@
+.index {
+  position: relative;
+  height: 100vh; /* prend tout l'écran */
+  position: fixed;
+  width: 100%;
+}
+/*body{
+  background-color: #1a1e23;
+}*/
+
+.background {
+  position: fixed; /* fond d'écran fixe */
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw; /* prend toute la largeur de l'écran */
+}
+
+.headindex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightskyblue;
+  height: 10vh;
+  width: 100%;
+  margin: 0px;
+}
+
+.App-logo {
+  height: 8vh;
+  pointer-events: none;
+}
+
+.titre {
+  font-family: 'Generis Simple', sans-serif;
+  font-size: 3.5rem;
+  color: white;
+  margin-left: 2vw;
+  margin-bottom: 5px;
+}
+
