@@ -50,8 +50,9 @@ Notre dossier contient la partie serveur et client presque terminées. Il manque
 ***** Le côté client *****
 	- Une Page de connexion
  
-	![login](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/c10fb9e7-072d-474c-9778-22e3e73f4a47)
+![login](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/c10fb9e7-072d-474c-9778-22e3e73f4a47)
 
  	- Une page d'inscription
-  	![signUp](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/ee41ba43-c0d4-4fa1-9aa5-e0a664497321)
+  
+![signUp](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/ee41ba43-c0d4-4fa1-9aa5-e0a664497321)
 
