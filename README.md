@@ -68,7 +68,7 @@ Notre dossier contient la partie serveur et client presque terminées. Il manque
 
  ![profil](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0bd423ab-b6c0-481a-8cad-171a101dcc77)
 
- 	- Profil d'un user, qu'on peut follow ou unfollow
+ 	- Profil d'un user, qui contient ses posts et qu'on peut follow ou unfollow
 
   ![profil aans](https://github.com/Rachid-kara-mostefa/Twister/assets/153507294/0319976d-9499-43d3-911f-f11e87e65d47)
 
